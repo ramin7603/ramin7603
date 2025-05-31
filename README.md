@@ -2,7 +2,7 @@
 <h3 align="center">مهندس نرم‌افزار | توسعه‌دهنده فول‌استک وب | مدرس برنامه‌نویسی</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="400"/>
 </p>
 
 ---
