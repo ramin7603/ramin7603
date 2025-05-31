@@ -1,16 +1,59 @@
-## Hi there 👋
+# سلام، من رامین زمانی هستم 👋
 
-<!--
-**ramin7603/ramin7603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### مهندس نرم‌افزار | توسعه‌دهنده فول‌استک وب | مدرس برنام ه‌نویسی
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## درباره من
+
+فارغ‌ التحصیل رشته مهندسی نرم‌افزار با بیش از **۷ سال سابقه حرفه‌ای** در زمینه توسعه نرم‌افزار و برنامه‌نویسی.  
+علاقه‌ مند به یادگیری مداوم، انجام پروژه‌ های عملی و ارائه راه‌حل‌ های با کیفیت در حوزه وب و نرم‌ افزار.
+
+---
+
+## تکنولوژی‌ ها و ابزارها
+
+**فرانت‌اند:**  
+HTML5، CSS3، جاوااسکریپت (ES6+)، React.js، Next.js، Vue.js
+
+**بک‌اند:**  
+پایتون، جنگو (Django)، فلاسک (Flask)، Node.js، Express.js
+
+**پایگاه داده:**  
+PostgreSQL، MongoDB، MySQL
+
+**ابزارها و فناوری‌های دیگر:**  
+Git، Docker، REST APIs، GraphQL، Webpack، VS Code
+
+**ابر و میزبانی:**  
+AWS، Heroku، Vercel
+
+---
+
+## حوزه‌های تخصصی
+
+- طراحی و توسعه برنامه‌های وب فول‌استک با استفاده از فریم‌ورک‌های مدرن مانند Django و Next.js  
+- پیاده‌سازی رابط‌های کاربری واکنش‌گرا و کاربرپسند  
+- ساخت و مدیریت APIهای RESTful و پایگاه‌داده‌های پیچیده  
+- بیش از ۳ سال تجربه تدریس برنامه‌نویسی و انتقال دانش به دانشجویان  
+- یادگیری مستمر تکنولوژی‌های جدید و انجام پروژه‌های جانبی برای ارتقاء مهارت‌ها  
+
+---
+
+## مهارت‌ها و علاقه‌مندی‌ها
+
+- تسلط حدود ۸۰٪ به زبان‌های برنامه‌نویسی جاوااسکریپت و پایتون  
+- علاقه و اشتیاق فراوان به برنامه‌نویسی و توسعه نرم‌افزار  
+- تلاش برای یادگیری روزانه و به‌روزرسانی دانش فنی  
+- تجربه همکاری در پروژه‌های متن‌باز و آموزش آنلاین  
+
+---
+
+## راه‌های ارتباطی
+
+- لینکدین: https://www.linkedin.com/in/ramin-zamani-3144a52a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+- ایمیل: raminzamani7603@gmail.com
+- وب‌سایت شخصی: raminzamani.ir
+
+---
+
