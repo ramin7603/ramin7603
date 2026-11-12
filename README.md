@@ -57,11 +57,10 @@
 ---
 
 ## 📊 آمار فعالیت‌های من در گیت‌هاب
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=anuraghazra&repo=anuraghazra%2Fgithub-readme-stats&disable_animations=false&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramin-zamani&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramin-zamani&layout=compact&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ramin7603&show_icons=true&theme=ayu-mirage" />
   <br/>
 
 </p>
